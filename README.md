@@ -19,6 +19,7 @@
 
     HTML/CSS
     JavaScript
+    JSX
     React
 
   

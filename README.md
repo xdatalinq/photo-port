@@ -1,5 +1,45 @@
-Repo: https://github.com/xdatalinq/photo-port
-# Getting Started with Create React App
+  # Photo Port
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  
+  ## Table of Contents
+  * [Description](#description)
+  * [Screenshot](#screenshot)
+  * [Live](#live)
+  * [Repository](#repository)
+  * [Contact](#contact)
+  * [License](#license)
+  * [Getting Started with Create React App](#getting-started-with-create-react-app)
+
+  ## Description
+  Single-page application (SPA). SPAs interact with the browser by dynamically rewriting the current webpage with new data from
+  the web server, instead of requiring the browser to load entirely new pages. This app includes a photo-modal to load pictures
+  from the gallery based on user selection.
+
+    Built Using:
+
+    HTML/CSS
+    JavaScript
+    React
+
+  
+  ## Screenshot
+  ![image](https://user-images.githubusercontent.com/89672040/216660437-277b61ad-166e-40d6-8fcc-9f4f8a7a93f0.png)
+  
+  ## Live
+  New Heroku deoployment link coming soon!
+  
+  ## Repository
+  Repo: https://github.com/xdatalinq/photo-port
+  
+  ## Contact
+  I can be reached here: [xdatalinq@gmail.com](xdatalinq@gmail.com)
+  <br></br>
+    
+  ## License
+  This project is licensed under [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
+  <br><br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -34,7 +74,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build <br>
+dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 

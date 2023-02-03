@@ -18,8 +18,7 @@
     Built Using:
 
     HTML/CSS
-    JavaScript
-    JSX
+    JavaScript/JSX
     React
 
   

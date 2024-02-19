@@ -26,7 +26,7 @@
   ![image](https://user-images.githubusercontent.com/89672040/216660437-277b61ad-166e-40d6-8fcc-9f4f8a7a93f0.png)
   
   ## Live
-  New Heroku deoployment link coming soon!
+  Live: https://xdatalinq.github.io/photo-port/
   
   ## Repository
   Repo: https://github.com/xdatalinq/photo-port
